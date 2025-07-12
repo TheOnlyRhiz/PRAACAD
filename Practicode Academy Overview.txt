@@ -1,0 +1,453 @@
+Practicode Academy Overview
+Practicode Academy is a tech training institute based in Ibadan, Nigeria, established on April 10, 2023. The academy was created to bridge the gap between theoretical education and real-world tech skills for African youths—especially students and fresh graduates. It operates both physically and virtually, with its office and training center located at 7b, Oba Olagbegi Street, Old Bodija, Ibadan.
+
+💡 Mission & Vision
+Mission:
+To empower students with practical, industry-relevant tech skills that make them job-ready, freelance-capable, and entrepreneurially empowered.
+
+Vision:
+To become Africa’s most practical and impactful tech talent pipeline.
+
+💼 Programs Offered
+Practicode Academy offers career-focused short courses in:
+
+Web Development
+HTML, CSS, JavaScript, React
+GitHub, Deployment
+Project-based learning
+
+Data Analytics
+Excel (Beginner to Intermediate)
+Power BI
+SQL basics
+Data cleaning & visualization
+
+Projects with Nigerian datasets
+UI/UX Design
+Figma
+Design principles
+Wireframes and Prototyping
+
+Virtual Assistance
+Admin tasks
+Scheduling & tools (e.g. Google Suite, Canva)
+
+Communication & client management
+
+🕒 Structure
+Cohort System: 3 cohorts per year, each lasting 3 months, with half a month before for planning and half after for final assessments and certification.
+
+Certification: Graded based on final project submissions.
+
+Mode of Learning: Physical classes, online resources, mentoring, and project reviews.
+
+👨‍🏫 Teaching Methodology
+Hands-on & beginner-friendly approach.
+
+Taught in phases (e.g., HTML basics before moving to CSS or JS).
+
+Each course has weekly tasks and monthly assessments.
+
+Emphasis on portfolio building through real projects.
+
+Exposure to tools like Replit, VS Code, GitHub, and Jupyter Notebook.
+
+🏆 Highlights
+Real-life projects such as:
+Web-based dictionary using Python.
+
+Park management system using MERN stack.
+Survey forms using HTML input types.
+Students have been assigned industry-based tasks, such as:
+
+Creating a newsletter using media queries.
+Automating Telegram bots.
+Building landing pages with React components.
+
+
+
+🔧 Future Plans
+Expand course tracks to include Cybersecurity, AI/ML, and Digital Marketing.
+
+Create a structured alumni network and mentorship community.
+
+Scale with partnerships and offer bootcamp scholarships.
+
+
+
+
+
+Here's a comprehensive overview of Practicode Academy—fully tailored for your website development, including details about the academy's vision, mission, courses, instructors, structure, and branding tone. You can copy sections directly into your website’s About, Courses, Team, and FAQ pages.
+
+🏫 Practicode Academy – Full Profile for Website Creation
+About Practicode Academy
+Practicode Academy is a practical, beginner-friendly tech training institute based in Ibadan, Nigeria, established on April 10, 2023. The academy exists to close the gap between classroom theory and real-world digital skills, with a core mission to equip young Africans—especially university students—with skills that will make them employable, freelance-ready, or capable of launching tech startups.
+
+With a clear focus on practice over theory, the Academy delivers hands-on, project-based learning across multiple tech disciplines including Web Development, Data Analytics, UI/UX Design, and Virtual Assistance.
+
+💬 Vision Statement
+To become Africa’s most practical, accessible, and impactful tech skills training hub.
+
+💬 Mission Statement
+To raise a generation of highly skilled and confident tech talents through simplified training, real-world projects, and mentorship.
+
+🧩 Core Values
+Simplicity – We teach in a way that anyone can understand.
+
+Excellence – We prioritize quality work and project-based results.
+
+Integrity – We promote honesty and accountability.
+
+Faith & Balance – We embrace faith-friendly, ethical learning environments.
+
+Growth – We track and celebrate personal progress, not just certificates.
+
+🎓 Courses Offered
+All courses run in cohorts, usually three times a year. Each course is 3 months long, with project submission required for certification.
+
+1. Web Development
+Level: Beginner to Intermediate
+Modules:
+
+HTML5 (Forms, Inputs, Tables, Media)
+
+CSS3 (Layout, Flexbox, Grid)
+
+JavaScript Basics (DOM, Arrays, Events)
+
+React.js (Components, Props, State)
+
+Git & GitHub
+
+Responsive Design with Media Queries
+
+Final Project: Build and host a responsive React-based website
+
+2. Data Analytics
+Level: Beginner
+Modules:
+
+Microsoft Excel (Data Entry, Sorting, Filtering, Charts)
+
+Power BI (Dashboards, DAX, Visualizations)
+
+SQL Basics (SELECT, WHERE, JOIN)
+
+Data Cleaning Techniques
+
+Working with Nigerian datasets
+
+Final Project: Full Excel/Power BI analysis for a small business
+
+3. UI/UX Design
+Level: Beginner
+Modules:
+
+Introduction to User Experience & Interface Design
+
+Figma Tools (Frames, Components, Prototypes)
+
+Typography, Colors, Layout
+
+Wireframing and User Flows
+
+Final Project: Design a multi-page app prototype in Figma
+
+4. Virtual Assistance
+Level: Entry-level
+Modules:
+
+Google Workspace (Docs, Sheets, Gmail, Calendar)
+
+Canva for Design
+
+Task Management (Trello, Notion)
+
+Time Management & Scheduling
+
+Freelance Platforms (Upwork, Fiverr Basics)
+
+Final Project: Manage a full calendar and design mock social post for a client
+
+👨‍🏫 Instructors & Team
+1. Idris Akande Rasaq
+Academic Coordinator
+
+Background: Computer Science (University of Ibadan)
+
+Specialties: Web Development (MERN Stack), Python, React, APIs, .NET, Data Analysis, Digital Marketting, Tech Educator, Enterprenuer
+
+2. Aasiyah A.
+Data Analytics Trainer & Curriculum Advisor
+
+Focus: Excel, Data Collection Projects, Survey Design
+
+Role: Teaches beginner-level analytics, Excel tasks, and guides on project documentation/logbooks
+
+Approach: Simplifies complex ideas for non-tech backgrounds
+
+3. Guest Mentors (Varies Per Cohort)
+Experts in UI/UX, Cybersecurity, or Freelancing
+
+Typically invited during project defense weeks or career talks
+
+🧱 Course Structure
+3-Month Intensive Programs
+
+Month 1: Foundation & Tools
+
+Month 2: Applied Learning with Tasks
+
+Month 3: Project Development + Mentorship
+
+Weekly Assignments
+
+Live Practical Classes (Physical & sometimes virtual)
+
+Mentorship Check-ins & Peer Reviews
+
+Final Project & Graded Certification
+
+📍 Location & Facilities
+Main Hub: 7b, Oba Olagbegi Street, Old Bodija, Ibadan
+
+Setup: Classrooms with laptops, whiteboards, internet, and power backup
+
+Opening Hours: 9am – 5pm, Mondays to Saturdays
+
+Phone/WhatsApp: +234 902 366 7891
+
+🧪 Unique Features
+Real-Life Projects:
+
+Park Management System
+
+Telegram Bot Automation
+
+AI-Powered Dictionary
+
+Responsive Survey Forms
+
+GitHub Portfolio Training
+
+Internship Matching for Top Students
+
+💬 What Makes Practicode Different?
+Beginner-friendly: You don’t need prior coding experience.
+Community-Based
+Offline Classes: Not just video lectures—students learn through live sessions and peer reviews.
+
+Affordable: Priced for students with flexible payment plans and discounts.
+
+💳 Tuition Fees (Indicative)
+Web Development: ₦70,000
+
+Data Analysis: ₦55,000
+
+UI/UX Design: ₦70,000
+
+Virtual Assistant: ₦50,000
+IT students 
+
+🔁 Upcoming & Future Additions
+Mobile App Development (Flutter or React Native)
+Cybersecurity Essentials
+AI Agents
+WordPress Web Design
+Alumni Network Platform
+Job Board / Gig Hub for Freelancers
+Practicode Developer Community (Slack or Discord)
+
+🌐 Online Presence
+Website: [Coming Soon]
+
+Instagram: @practicode_academy
+WhatsApp Catalog: Available via referral
+GitHub: In progress (for student portfolios)
+
+📩 FAQ (For Website)
+Q: Do I need a laptop?
+A: Yes. We provide shared systems for those without personal laptops.
+
+Q: Will I get a certificate?
+A: Yes—after submitting and presenting your final project.
+
+Q: Are classes online or physical?
+A: Most classes are in-person in Bodija. Select virtual sessions are offered.
+
+Q: Can I join from another state?
+A: yes, virtually.
+
+Q: What makes you different from others?
+A: Live, mentor-led teaching + real projects + community.
+
+✅ Practicode Academy – Ultimate Expanded Profile
+🏛️ Institution Overview
+Name: Practicode Academy
+
+Type: Tech Education & Talent Development
+Founded: April 10, 2023
+Location: 7b Oba Olagbegi Street, Old Bodija, Ibadan, Nigeria
+Model: In-person & hybrid practical tech academy
+Audience: Undergraduates, jobseekers, freelancers, beginner tech enthusiasts, and youth in Ibadan and nearby regions
+
+🔍 Our Why – The Problem We Solve
+In Nigeria and most of Africa:
+
+Students learn theory, not hands-on tech skills.
+
+Tech seems “too hard” for beginners.
+
+There are very few faith-friendly, affordable, and offline tech schools.
+
+Practicode exists to make tech:
+
+Accessible to total beginners.
+
+Practical through project-based teaching.
+
+Inclusive for Muslims and all value-conscious learners.
+
+Community-driven with mentorship.
+
+🎯 Vision & Mission
+Vision:
+To become Africa’s most respected practical tech training institute where total beginners become job-ready in 90 days.
+
+Mission:
+
+Provide simple, hands-on teaching for beginners.
+
+Empower African youth to become job creators, not just job seekers.
+
+Foster a faith-conscious and value-driven learning space.
+
+
+🧱 Current Courses
+💻 1. Web Development
+Target: People who want to build websites or become frontend developers.
+
+HTML5, CSS3, Media Queries
+
+JavaScript Essentials
+
+React.js Basics
+
+Project: Personal Portfolio, Blog, or Company Website
+
+📊 2. Data Analytics
+Target: Beginners who want to analyze data for business or freelancing.
+
+Microsoft Excel (40-row mini-project)
+
+Power BI Dashboarding
+
+SQL (Basic Queries, Joins)
+
+Project: Business Analytics Report
+
+🎨 3. UI/UX Design
+Target: Creative people who want to design apps or websites.
+
+Figma Basics
+
+Typography, Grids, Layouts
+
+User Flows and Wireframes
+
+Project: Full UI Prototype for a Business or App Idea
+
+🧾 4. Virtual Assistant
+Target: Anyone who wants to earn online as a freelancer.
+
+Google Docs/Sheets/Calendar
+
+Canva & Design Templates
+
+Client Communication & Time Tracking
+
+Project: VA Portfolio + Job Simulations
+
+🎓 Academic Model
+Cohorts: 3 times per year
+
+Format: Weekday/Weekend hybrid
+
+Certification: Based on Final Project + Quiz
+
+Assessments: Weekly tasks, peer reviews, mentor feedback
+
+Special Features:
+Practicum projects for each course
+
+Project documentation logbook (especially for SIWES/IT students)
+
+Final year project mentoring for computer science students
+
+Mentoring: 1-on-1 mentoring for career direction, freelancing, or project planning
+
+Referral Program: Earn by inviting friends or sharing flyers
+
+💸 Tuition & Payment
+Affordable pricing for students and jobseekers
+
+📈 Sample Projects from Students
+Project Title	Tech Used	Purpose
+AI-Powered Dictionary	Python + Flask	Custom word search + voice
+Park Management System (MERN)	MongoDB, Express, React	Driver registry + passenger verify
+Survey Form Web App	HTML5 Forms	Data collection for UI
+Telegram Game Bot	JavaScript + API	Web-based automated interaction
+
+📞 Contact Information
+WhatsApp: +234 902 366 7891
+Email: practicodeacademy@gmail.com (or your final domain email)
+Instagram: @practicode_academy
+LinkedIn: Practicode Academy (coming soon)
+
+🖌️ Branding & Design Guide
+Primary Colors: small touch of yellow
+
+Voice & Tone: Friendly, simple, trust-focused
+
+Visuals: soft dashboard design, plenty icon usage, Use illustrations of African youth, code snippets, laptops
+
+💼 Ideal Website Pages
+Home
+
+Enroll - with enrollment form
+courses
+FAQs
+About 
+Home
+
+
+
+📞 Contact Practicode Academy
+We’d love to hear from you! Whether you're ready to enroll, ask a question, or book a school visit, reach out using any of the options below.
+
+📍 Physical Address:
+Practicode Academy
+7b, Oba Olagbegi Street,
+Old Bodija, Ibadan, Oyo State, Nigeria.
+(Look for the yellow/black Practicode banner)
+
+☎️ Phone / WhatsApp:
++234 902 366 7891
+(Available Monday to Saturday, 9am – 6pm)
+
+📧 Email:
+practicodeacademy@gmail.com
+
+🌐 Social Media:
+Instagram: @practicode_academy
+
+WhatsApp Catalog: Available on request
+
+GitHub: Coming soon for student projects
+
+LinkedIn: Coming soon
+
+🕘 Working Hours:
+Monday – Saturday
+9:00 AM – 6:00 PM (WAT)
+
